@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 혼돈의 깃헙 
+### 혼돈의 깃헙
+### 적응 중입니다.
 
 <!--
 **frgrkr/frgrkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
